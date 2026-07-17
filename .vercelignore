@@ -10,7 +10,6 @@ yarn-error.log*
 *.pem
 .env.local
 .env.*.local
-.next
 out
 .turbo
 .yarn/cache
