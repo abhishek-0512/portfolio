@@ -57,10 +57,10 @@ export default function Home() {
           Aspiring SDE Intern
         </div>
         <h1 className="w450:text-3xl mt-4 text-4xl font-black tracking-tight">
-          Hi, I'm Abhishek. I build thoughtful software with curiosity and care.
+          Hi, I&apos;m Abhishek. I build thoughtful software with curiosity and care.
         </h1>
         <p className="mt-4 max-w-2xl text-base text-black/80">
-          I’m a software-focused developer who enjoys turning ideas into practical
+          I&apos;m a software-focused developer who enjoys turning ideas into practical
           products. My work spans clean UI experiences, modern web apps, and
           thoughtful engineering choices that make features feel effortless.
         </p>
@@ -76,7 +76,7 @@ export default function Home() {
             href="mailto:abhishekgangwar9876@gmail.com"
             className="border-border text-foreground shadow-shadow rounded-base bg-background hover:translate-x-boxShadowX hover:translate-y-boxShadowY inline-flex items-center gap-2 border-2 px-4 py-2 font-bold uppercase transition-all hover:shadow-none"
           >
-            Let’s connect
+            Let&apos;s connect
           </a>
         </div>
       </section>
